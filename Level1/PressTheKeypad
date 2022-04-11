@@ -1,10 +1,10 @@
-```java
+
 class Solution {
     public String solution(int[] numbers, String hand) {
 
-			/*
-			 *  https://programmers.co.kr/learn/courses/30/lessons/67256
-			 */
+	/*
+	 *  https://programmers.co.kr/learn/courses/30/lessons/67256
+	 */
 
         String answer = "";
         String left = "*";
@@ -94,4 +94,3 @@ class Solution {
         
     }
 }
-```
