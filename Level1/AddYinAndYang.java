@@ -1,4 +1,4 @@
-class Solution {
+class AddYinAndYang {
     public int solution(int[] absolutes, boolean[] signs) {
 
 				/*
