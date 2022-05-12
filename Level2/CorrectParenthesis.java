@@ -1,4 +1,4 @@
-class Solution {
+class CorrectParenthesis {
     boolean solution(String s) {
         
         /*
