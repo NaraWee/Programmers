@@ -4,8 +4,7 @@ class CorrectParenthesis {
         /*
          * https://programmers.co.kr/learn/courses/30/lessons/12909
          */
-        
-        boolean answer = true;        
+              
         int cnt = 0;
         
         for(int i = 0; i < s.length(); i++) {
@@ -23,6 +22,6 @@ class CorrectParenthesis {
             answer = false;
         }
 
-        return answer;
+        return true;
     }
 }
